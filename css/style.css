@@ -1,0 +1,25 @@
+/* css borrador */
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+    /* margin: 150px;
+    margin-left: 500px;
+    margin-right: 500px; */
+}
+
+
+  h4, label {
+    width: 20px;
+    height: 50px;
+    border: none;
+    font-size: 4rem;
+  }
+
+  button {
+    height: 50px;
+    width: 100px;
+    padding: 3px;
+    margin-bottom: 3px;
+    font-size: 2rem!important;
+  }
+
